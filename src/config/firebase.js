@@ -1,14 +1,14 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
-// Web app's Firebase configuration
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyAesPAXeZWicmrQzkfmDSDOJh9eIOQ-JzM",
+  authDomain: "donkey-tutorial.firebaseapp.com",
+  projectId: "donkey-tutorial",
+  storageBucket: "donkey-tutorial.appspot.com",
+  messagingSenderId: "147847953873",
+  appId: "1:147847953873:web:039c17e1d02fb5a80ab4f0"
 };
 
 // Initialize Firebase
